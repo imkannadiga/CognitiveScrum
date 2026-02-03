@@ -1,0 +1,8 @@
+crewai
+langchain_community
+chromadb
+sentence-transformers  
+pandas
+pydantic
+PyPDF2
+streamlit
