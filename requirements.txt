@@ -6,3 +6,12 @@ pandas
 pydantic
 PyPDF2
 streamlit
+litellm
+langchain-litellm
+google-generativeai
+python-dotenv
+langchain
+openai
+fastapi
+apscheduler
+fastapi_sso
